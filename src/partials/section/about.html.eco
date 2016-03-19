@@ -1,6 +1,12 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<h4 class="section-title">El Evento</h4>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p itemprop="description">El Python Day es un evento libre y gratuito que dura un día, en donde tendrán lugar pequeños cursos y charlas relacionadas a este lenguaje que de a poco va haciendo su lugar entre los desarrolladores. Tenemos como intención hacer un espacio en donde cualquier persona interesada pueda acercarse para preguntar, aprender y experimentar con estas herramientas (<a href="https://es.wikipedia.org/wiki/Python">fuente</a>) </p>
+<hr />
+
+<h4 class="section-title">¿Qué es Python?</h4>
+<p itemprop="description">Python es un lenguaje de programación interpretado, de tipado dinámico y multiplataforma, cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Es también multiparadigma, ya que soporta orientación a objetos, programación imperativa y programación funcional. Es sencillo de aprender, y muchos programadores Python reconocen un sustancial aumento en su productividad además de sentir que el lenguaje mismo los incentiva al desarrollo de código de mayor calidad. Está disponible en múltiples plataformas, desde una PC hasta teléfonos celulares, y muchos sitios de Internet utilizan Python como soporte de sus servicios (<a href="http://pyday.unlux.com.ar/conferencia/">fuente</a>)</p>
+
+
+

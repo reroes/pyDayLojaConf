@@ -7,28 +7,33 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "PYDAY LOJA",
       description: "Conference description",
-      date: "November 15",
+      date: "Abril 1",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      // price: "$100",
+      // venue: "Coco Bongo",
+      // address: "Boulevard Kukulcan, 30",
+      // city: "Cancún",
+      // state: "Quintana"
+        venue: "UTPL",
+        address: "San Cayetano Alto,Calle París",
+        city: "Loja",
+        state: "Loja"
+
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
-    },
+    // callToAction: {
+    //     text: "Register now!",
+    //     link: "http://eventick.com.br"
+    // },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
-    },
+    // forkButton: {
+    //     repository: "https://github.com/braziljs/conf-boilerplate"
+    // },
 
     // Site info
     site: {
@@ -52,13 +57,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
+      about: "Acerca de",
+      location: "Lugar",
+      speakers: "Disertantes",
+      schedule: "Agenda",
+      sponsors: "Auspiciantes",
       partners: "Partners",
-      contact: "Contact"
+      contact: "Contacto"
     },
 
     // The entire schedule
@@ -68,18 +73,18 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Linus Torvalds",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        name: "Milton Labanda",
+        photo: "themes/yellow-swan/img/team/milton.jpg",
+        bio: "",
+        company: "Univeridad Nacional de Loja",
         link: {
           href: "http://twitter.com/linus",
           text: "@linus"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
+          title: "Python es Comunidad",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          time: "9h15"
         }
       },
       {
